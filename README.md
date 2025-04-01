@@ -39,6 +39,3 @@ python ai_news_anchor.py
 - Add a GUI for user interaction
 - Support multiple languages
 - Improve voice synthesis using neural TTS models
-
-## License
-This project is open-source and available under the MIT License.
